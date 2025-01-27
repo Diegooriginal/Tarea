@@ -3,10 +3,10 @@ body {
     line-height: 1.6;
     margin: 0;
     padding 0;
-    background-color: #f5c2c2;
+    background-color: #e8eb68;
 }
 header{
-    background-color: #333;
+    background-color: #6ece5b;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -18,7 +18,7 @@ section {
     padding: 2rem;
     margin: 1rem auto;
     max-width: 800px;
-    background-color: #a19c9c;
+    background-color: #fadfd7;
     box-shadow: 0 0 10px rgba(0,0,0 0.1);
 }
 section h2{
